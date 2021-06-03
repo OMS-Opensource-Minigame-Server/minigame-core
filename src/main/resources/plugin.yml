@@ -1,0 +1,10 @@
+name: Minigamecore
+version: ${project.version}
+main: fun.reallyisnt.oms.minigamecore.Minigamecore
+api-version: 1.16
+authors: [ funniray, ultimenzo ]
+description: Minigame Core for OMS
+
+commands:
+  start:
+    usage: "/start"
